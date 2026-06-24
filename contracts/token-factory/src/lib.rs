@@ -135,6 +135,8 @@ mod burn_edge_cases_test;
 
 #[cfg(test)]
 mod dividend_distribution_test;
+#[cfg(test)]
+mod dividend_distribution_multi_epoch_integration_test;
 
 #[cfg(test)]
 mod metadata_versioning_property_test;
